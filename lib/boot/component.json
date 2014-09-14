@@ -5,22 +5,13 @@
     "jashkenas/backbone": "^1.1"
   },
   "locals": [
-    "moment"
+    "moment",
+    "data"
   ],
   "scripts": [
     "index.js"
   ],
   "templates": [
     "template.html"
-  ],
-  "json": [
-    "eki-marche-09-14.json",
-    "eki-marche-09-15.json",
-    "ekimae-09-14.json",
-    "ekimae-09-15.json",
-    "ryokudo-marche-09-14.json",
-    "ryokudo-marche-09-15.json",
-    "tokiwa-marche-09-14.json",
-    "tokiwa-marche-09-15.json"
   ]
 }
