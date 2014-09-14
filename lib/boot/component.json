@@ -2,7 +2,7 @@
   "dependencies": {
     "components/jquery": "^2.1",
     "jashkenas/underscore": "*",
-    "jashkenas/backbone": "^1.1"
+    "component/reactive": "~1.2"
   },
   "locals": [
     "moment",

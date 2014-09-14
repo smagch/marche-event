@@ -1,6 +1,7 @@
 <ul>
-  <% _.each(data, function(d) { %>
-  <h3><%= d.name %></h3>
-  <p><%= d.place %>, <%= d.time[0] %>:<%= d.time[1] %></p>
-  <% }); %>
+  <li each="data">
+    <h3>{name}</h3>
+    <p>{place}</p>
+    <p>{date}: {time[0]} - {time[1]}</p>
+  </li>
 </ul>
