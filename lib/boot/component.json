@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "components/jquery": "^2.1",
+    "jashkenas/underscore": "*",
+    "jashkenas/backbone": "^1.1"
+  },
+  "locals": [
+    "moment"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "json": [
+    "marche-09-14.json",
+    "ekimae-09-14.json"
+  ]
+}
