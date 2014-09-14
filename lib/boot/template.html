@@ -1,0 +1,6 @@
+<ul>
+  <% _.each(data, function(d) { %>
+  <h3><%= d.name %></h3>
+  <p><%= d.place %>, <%= d.time[0] %>:<%= d.time[1] %></p>
+  <% }); %>
+</ul>

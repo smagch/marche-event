@@ -10,6 +10,9 @@
   "scripts": [
     "index.js"
   ],
+  "templates": [
+    "template.html"
+  ],
   "json": [
     "eki-marche-09-14.json",
     "eki-marche-09-15.json",
